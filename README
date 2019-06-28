@@ -1,0 +1,28 @@
+Date: 18-Jun-2019 Tue
+Author: Yusuf Shakeel
+File: README
+Description: This is the README file of the plugin.
+---------------------------------------------------------
+
+getStorify Offers Pro Plugin - WordPress
+================================================
+
+Features:
+------------
+* List offers of a user
+* List stores of a user
+* List items of an offer of a store
+
+
+How to use this plugin?
+-------------------------
+1. Go to the Plugins section in the WordPress Admin Dashboard and upload this plugin.
+   If you have access to the server then you can also upload the plugin file using FTP softwares.
+
+2. Activate the plugin.
+
+3. Go to Settings page in the WordPress Admin Dashboard and select getStorify Offers Pro Plugin.
+
+4. Enter the credentials like User ID, App ID and App Token and click on Save button.
+
+5. You can now use the shortcode in your WordPress Page to show the stores and offers.
